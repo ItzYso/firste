@@ -1,7 +1,5 @@
 🥷 Ninja Omar
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/240/ninja.png" width="150"/>
 </p>🎮 About The Game
 
 Ninja Omar هي لعبة أكشن خفيفة وسريعة بتتحكم فيها في نينجا اسمه Omar.
