@@ -25,15 +25,6 @@ Ninja Omar هي لعبة أكشن خفيفة وسريعة بتتحكم فيها 
 
 ---
 
-🛠️ Technologies Used
-
-- Programming Language: (اكتب اللغة هنا)
-- Game Logic
-- Animations
-- Collision Detection
-
----
-
 🚀 Goal of This Project
 
 المشروع ده هو أول تجربة ليا في:
